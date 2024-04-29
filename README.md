@@ -44,7 +44,7 @@ We welcome contributions! if you want to contibute please follow the guidelines
 
 1. Duplicate the repository.
 2. Generate a fresh branch for your feature or bug fix.
-I3. mplement your modifications and save them.
+3. Implement your modifications and save them.
 4. Upload your changes to your duplicated repository.
 5. Propose a pull request, detailing your alterations and offering relevant context.
 ## Conclusion:
