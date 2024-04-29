@@ -1,4 +1,4 @@
-English-to-Hindi-Machine-Translation
+# English-to-Hindi-Machine-Translation
 NLP-DSCI-6004-02 Project
 
 Team Members:
