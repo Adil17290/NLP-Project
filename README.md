@@ -2,8 +2,8 @@
 # NLP-DSCI-6004-02 Project
 
 ## Team Members:
-Shaik Adil
-Sneha Vangala
+Shaik Adil,
+Sneha Vangala,
 Komal Tankashala
 
 ## Summary:
