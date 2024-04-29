@@ -6,8 +6,8 @@ Shaik Adil
 Sneha Reddy Vangala
 Komal Tankashala
 
-Summary
-Contained within this repository are the code and documentation for our NLP-DSCI-6004-01 project, which concentrates on an inventive method for translating English to Hindi. By leveraging cutting-edge techniques in natural language processing (NLP) and deep learning, our model aims to tackle the challenges inherent in cross-language translation. This project offers a comprehensive overview, encompassing motivation, technical specifics, training optimization, and extensive evaluation.
+Summary:
+Contained within this repository are the code and documentation for our NLP-DSCI-6004-02 project, which concentrates on an inventive method for translating English to Hindi. By leveraging cutting-edge techniques in natural language processing (NLP) and deep learning, our model aims to tackle the challenges inherent in cross-language translation. This project offers a comprehensive overview, encompassing motivation, technical specifics, training optimization, and extensive evaluation.
 
 Contents
 1. Introduction:
