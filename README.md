@@ -39,8 +39,8 @@ Fine-tuning experiments for learning rates and momentum rates.
 Visual representation of training and validation loss over epochs for learning rate and momentum rate tuning.
 Discussion of the BLEU score of 0.23 as an evaluation metric, indicating reasonable translation accuracy.
 9. Tokenization:
-Implementation of tokenization using the transformers library.
-Explanation of key steps, including padding, truncation, and conversion to PyTorch tensors.
+Implementation of tokenization using the transformers library.Explanation of key steps, including padding, truncation, and conversion to PyTorch tensors.
+
 Conclusion:
 Our project has significantly advanced English-to-Hindi translation and broader machine translation research. Despite challenges in data handling and model optimization, our work underscores the value of innovative strategies. Future directions include exploring pre-trained models and addressing low-resource language translation.
 
