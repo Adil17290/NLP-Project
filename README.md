@@ -41,11 +41,12 @@ Discussion of the BLEU score of 0.23 as an evaluation metric, indicating reasona
 Implementation of tokenization using the transformers library.Explanation of key steps, including padding, truncation, and conversion to PyTorch tensors.
 ## Contribution:
 We welcome contributions! if you want to contibute please follow the guidelines
-Duplicate the repository.
-Generate a fresh branch for your feature or bug fix.
-Implement your modifications and save them.
-Upload your changes to your duplicated repository.
-Propose a pull request, detailing your alterations and offering relevant context.
+
+1. Duplicate the repository.
+2. Generate a fresh branch for your feature or bug fix.
+I3. mplement your modifications and save them.
+4. Upload your changes to your duplicated repository.
+5. Propose a pull request, detailing your alterations and offering relevant context.
 ## Conclusion:
 Our project has significantly advanced English-to-Hindi translation and broader machine translation research. Despite challenges in data handling and model optimization, our work underscores the value of innovative strategies. Future directions include exploring pre-trained models and addressing low-resource language translation.
 
