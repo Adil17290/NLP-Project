@@ -1,15 +1,15 @@
 # Machine-Translation
 # NLP-DSCI-6004-02 Project
 
-Team Members:
+## Team Members:
 Shaik Adil
 Sneha Vangala
 Komal Tankashala
 
-Summary:
+## Summary:
 Contained within this repository are the code and documentation for our NLP-DSCI-6004-02 project, which concentrates on an inventive method for translating English to Hindi. By leveraging cutting-edge techniques in natural language processing (NLP) and deep learning, our model aims to tackle the challenges inherent in cross-language translation. This project offers a comprehensive overview, encompassing motivation, technical specifics, training optimization, and extensive evaluation.
 
-Contents
+## Contents
 1. Introduction:
 Overview of the project's focus on translating English to Hindi using machine translation.
 Highlights the importance of overcoming language barriers through automated translation.
@@ -41,7 +41,7 @@ Discussion of the BLEU score of 0.23 as an evaluation metric, indicating reasona
 9. Tokenization:
 Implementation of tokenization using the transformers library.Explanation of key steps, including padding, truncation, and conversion to PyTorch tensors.
 
-Conclusion:
+## Conclusion:
 Our project has significantly advanced English-to-Hindi translation and broader machine translation research. Despite challenges in data handling and model optimization, our work underscores the value of innovative strategies. Future directions include exploring pre-trained models and addressing low-resource language translation.
 
 
