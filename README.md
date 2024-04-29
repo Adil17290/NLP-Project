@@ -16,7 +16,6 @@ Highlights the importance of overcoming language barriers through automated tran
 2. Related Work:
 Examines the use of Seq2Seq models, beginning with the foundational work of Sutskever et al.
 Explores advancements such as attention mechanisms, Transformer models, transfer learning, and domain adaptation in English-to-Hindi translation.
-3. Methodology:
 2. Data Collection:
 Manual extraction from the Yale website followed by translation using Google Translate.
 Creation of a dataset comprising 128 samples for English-to-Hindi translation.
