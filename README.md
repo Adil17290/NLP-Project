@@ -1,7 +1,7 @@
 English-to-Hindi-Machine-Translation
 NLP-DSCI-6004-02 Project
-Team Members:
 
+Team Members:
 Shaik Adil
 Sneha Reddy Vangala
 Komal Tankashala
